@@ -1,0 +1,1 @@
+Veri RustFS üzerinde saklandı. Airflow DAG'i SSHOperator ile Spark Client'a bağlanarak Python temizleme uygulamasını çalıştırdı. Temizlenen veri PostgreSQL clean_data_transactions tablosuna yüklendi. Geliştirme dev branch'inde yapıldı ve PR ile main branch'e merge edildi.
